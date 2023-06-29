@@ -14,8 +14,6 @@ The dataset used in this project includes a collection of images depicting 23 di
 
 # Model
 
-[Old H5 Model Gdrive Link](https://drive.google.com/drive/folders/1WMwYZ6HjC6l8LIYJ3VYcoGsf9QxUnIQQ) (Old Model)
-
 [Final H5 Model Gdrive Link](https://drive.google.com/drive/folders/1PwCnlkURBq8iMZZs-HOQWN8RdSg-o9WO) (Final Model)
 
 # How To Use The Notebook
