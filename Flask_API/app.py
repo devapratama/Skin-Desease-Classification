@@ -7,7 +7,7 @@ import json
 
 app = Flask(__name__)
 
-model = load_model('model.h5')
+model = load_model('skinDiseaseClassification.h5')
 
 with open('labels.json') as f:
     label_data = json.load(f)
