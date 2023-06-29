@@ -23,9 +23,9 @@ The dataset used in this project includes a collection of images depicting 23 di
 4. Open the notebook in Google Colab.
 5. Follow the instructions in the notebook and run the notebook.
 
-# How to test Flask API using cmd
+# How To Test Flask API using cmd
 1. Download the Flask API folder (in master branch).
-2. Download and copy model h5 to Flask directory.
+2. Download and copy [model h5](https://drive.google.com/drive/folders/1PwCnlkURBq8iMZZs-HOQWN8RdSg-o9WO) (or you can train your own model and convert to h5) to Flask directory.
 3. Open cmd and navigate to Flask API directory.
 4. Create a Python virtual environment by running this following command:
    
