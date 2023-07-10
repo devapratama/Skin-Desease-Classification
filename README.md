@@ -2,7 +2,7 @@ This is a project team for [Bangkit](https://grow.google/intl/id_id/bangkit/) Ca
 
 My Team: https://github.com/SkinSight-C23-PS059
 
-# Skin-Desease-Classification
+# Skin-Disease-Classification
 
 Skin diseases are prevalent worldwide and can have a significant impact on a person's quality of life. Timely and accurate diagnosis of these conditions is essential for effective treatment and management. With advances in machine learning and computer vision, the development of reliable models for skin disease classification has become possible.
 
