@@ -12,9 +12,11 @@ The main objective of this project is to create a classification model for skin 
 
 The dataset used in this project includes a collection of images depicting 23 different types of skin diseases sourced from [DermNet](https://dermnetnz.org/) and have been collected [here](https://www.kaggle.com/datasets/shubhamgoel27/dermnet). The dataset contains a total of approximately 19.5k images, which have been divided into a training set of around 15k images and a separate test set.
 
-# Model
+# Model (H5)
 
-[Final H5 Model Gdrive Link](https://drive.google.com/drive/folders/1PwCnlkURBq8iMZZs-HOQWN8RdSg-o9WO) (Final Model)
+Model architecture using [DenseNet121](https://keras.io/api/applications/densenet/)
+
+[Final H5 Model Gdrive Download Link](https://drive.google.com/drive/folders/1PwCnlkURBq8iMZZs-HOQWN8RdSg-o9WO) (Final Model)
 
 # How To Use The Notebook
 1. Open Google Colab. Go to https://colab.research.google.com/ and sign in with your Google account if necessary.
