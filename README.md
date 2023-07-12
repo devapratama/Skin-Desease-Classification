@@ -1,4 +1,4 @@
-This is a project team for [Bangkit](https://grow.google/intl/id_id/bangkit/) Capstone Project, and I'm part of creating the machine learning model.
+This is a project team for [Bangkit](https://grow.google/intl/id_id/bangkit/) Capstone Project named "SkinSight", and I'm part of creating the machine learning model.
 
 My Team: https://github.com/SkinSight-C23-PS059
 
