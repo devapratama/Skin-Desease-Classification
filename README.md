@@ -2,6 +2,8 @@ This is a project team for [Bangkit](https://grow.google/intl/id_id/bangkit/) Ca
 
 My Team: https://github.com/SkinSight-C23-PS059
 
+If the code cannot be seen / unable to render code block, you can see the preview through [this link.](https://nbviewer.org/github/devapratama/Diamonds-Price-Prediction/blob/master/Diamonds_Price_Prediction.ipynb)
+
 # Skin-Disease-Classification
 
 Skin diseases are prevalent worldwide and can have a significant impact on a person's quality of life. Timely and accurate diagnosis of these conditions is essential for effective treatment and management. With advances in machine learning and computer vision, the development of reliable models for skin disease classification has become possible.
